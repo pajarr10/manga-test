@@ -1,0 +1,12 @@
+{
+  "name": "PAZM (PAZjar Manga)",
+  "short_name": "PAZM",
+  "description": "Modern manga reader powered by backend scraper.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070405",
+  "theme_color": "#0d0709",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
